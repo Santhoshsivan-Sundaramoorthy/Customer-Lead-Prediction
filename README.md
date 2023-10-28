@@ -1,8 +1,6 @@
 # Customer-Lead-Prediction
 
 
-![Project Image](project_image.png)
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data](#data)
